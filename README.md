@@ -20,3 +20,7 @@ Responsive card with image and overlay with title and logo.
 2. Run 'npm install' to install dependencies
 3. Run 'npm start' to start the project
 4. Run 'npm test' to run unit tests
+
+### 4. Deployed page
+
+https://omarcantu.github.io/responsive-card/

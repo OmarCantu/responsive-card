@@ -24,7 +24,7 @@ const Tile = styled.img.attrs({
   transition: transform .5s ease;
 
   :hover {
-    transform: scale(1.5);
+    transform: scale(1.1);
   }
 `;
 
