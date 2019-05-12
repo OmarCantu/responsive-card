@@ -1,0 +1,302 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Component matches Snapshot 1`] = `
+<Card
+  className="card"
+  logo={
+    Object {
+      "alt": "Seven logo",
+      "src": "logo.png",
+    }
+  }
+  tile={
+    Object {
+      "alt": "Home and Away",
+      "src": "tile.jpg",
+    }
+  }
+  title="Home and Away"
+  width="auto"
+>
+  <styled.div
+    className="card"
+    width="auto"
+  >
+    <StyledComponent
+      className="card"
+      forwardedComponent={
+        Object {
+          "$$typeof": Symbol(react.forward_ref),
+          "attrs": Array [],
+          "componentStyle": ComponentStyle {
+            "componentId": "sc-bdVaJa",
+            "isStatic": false,
+            "lastClassName": "ipPoCj",
+            "rules": Array [
+              "
+  display: inline-block;
+  max-width: 600px;
+  width: ",
+              [Function],
+              ";
+",
+            ],
+          },
+          "displayName": "styled.div",
+          "foldedComponentIds": Array [],
+          "render": [Function],
+          "styledComponentId": "sc-bdVaJa",
+          "target": "div",
+          "toString": [Function],
+          "warnTooManyClasses": [Function],
+          "withComponent": [Function],
+        }
+      }
+      forwardedRef={null}
+      width="auto"
+    >
+      <div
+        className="card sc-bdVaJa ipPoCj"
+        width="auto"
+      >
+        <styled.div>
+          <StyledComponent
+            forwardedComponent={
+              Object {
+                "$$typeof": Symbol(react.forward_ref),
+                "attrs": Array [],
+                "componentStyle": ComponentStyle {
+                  "componentId": "sc-bwzfXH",
+                  "isStatic": true,
+                  "lastClassName": "geMaRF",
+                  "rules": Array [
+                    "
+  overflow: hidden;
+  position: relative;
+",
+                  ],
+                },
+                "displayName": "styled.div",
+                "foldedComponentIds": Array [],
+                "render": [Function],
+                "styledComponentId": "sc-bwzfXH",
+                "target": "div",
+                "toString": [Function],
+                "warnTooManyClasses": [Function],
+                "withComponent": [Function],
+              }
+            }
+            forwardedRef={null}
+          >
+            <div
+              className="sc-bwzfXH geMaRF"
+            >
+              <styled.img
+                alt="Home and Away"
+                src="tile.jpg"
+                title="Home and Away"
+              >
+                <StyledComponent
+                  alt="Home and Away"
+                  forwardedComponent={
+                    Object {
+                      "$$typeof": Symbol(react.forward_ref),
+                      "attrs": Array [
+                        Object {
+                          "role": "presentation",
+                        },
+                      ],
+                      "componentStyle": ComponentStyle {
+                        "componentId": "sc-htpNat",
+                        "isStatic": true,
+                        "lastClassName": "gUYLkx",
+                        "rules": Array [
+                          "
+  display: block;
+  max-width: 100%;
+  transition: transform .5s ease;
+
+  :hover {
+    transform: scale(1.5);
+  }
+",
+                        ],
+                      },
+                      "displayName": "styled.img",
+                      "foldedComponentIds": Array [],
+                      "render": [Function],
+                      "styledComponentId": "sc-htpNat",
+                      "target": "img",
+                      "toString": [Function],
+                      "warnTooManyClasses": [Function],
+                      "withComponent": [Function],
+                    }
+                  }
+                  forwardedRef={null}
+                  src="tile.jpg"
+                  title="Home and Away"
+                >
+                  <img
+                    alt="Home and Away"
+                    className="sc-htpNat gUYLkx"
+                    role="presentation"
+                    src="tile.jpg"
+                    title="Home and Away"
+                  />
+                </StyledComponent>
+              </styled.img>
+              <styled.div>
+                <StyledComponent
+                  forwardedComponent={
+                    Object {
+                      "$$typeof": Symbol(react.forward_ref),
+                      "attrs": Array [],
+                      "componentStyle": ComponentStyle {
+                        "componentId": "sc-bxivhb",
+                        "isStatic": true,
+                        "lastClassName": "eBpJLS",
+                        "rules": Array [
+                          "
+  align-items: center;
+  background-color: ",
+                          "rgba(0, 0, 0, .5)",
+                          ";
+  bottom: 0;
+  display: grid;
+  grid-template-rows: 100%;
+  grid-template-columns: 13% 87%;
+  height: 31%;
+  padding: 2.5%;
+  position: absolute;
+  width: 100%;
+",
+                        ],
+                      },
+                      "displayName": "styled.div",
+                      "foldedComponentIds": Array [],
+                      "render": [Function],
+                      "styledComponentId": "sc-bxivhb",
+                      "target": "div",
+                      "toString": [Function],
+                      "warnTooManyClasses": [Function],
+                      "withComponent": [Function],
+                    }
+                  }
+                  forwardedRef={null}
+                >
+                  <div
+                    className="sc-bxivhb eBpJLS"
+                  >
+                    <styled.img
+                      alt="Seven logo"
+                      src="logo.png"
+                      title="Seven logo"
+                    >
+                      <StyledComponent
+                        alt="Seven logo"
+                        forwardedComponent={
+                          Object {
+                            "$$typeof": Symbol(react.forward_ref),
+                            "attrs": Array [
+                              Object {
+                                "role": "presentation",
+                              },
+                            ],
+                            "componentStyle": ComponentStyle {
+                              "componentId": "sc-ifAKCX",
+                              "isStatic": true,
+                              "lastClassName": "VNtXC",
+                              "rules": Array [
+                                "
+  height: auto;
+  max-height: 100%;
+  max-width: 100%;
+",
+                              ],
+                            },
+                            "displayName": "styled.img",
+                            "foldedComponentIds": Array [],
+                            "render": [Function],
+                            "styledComponentId": "sc-ifAKCX",
+                            "target": "img",
+                            "toString": [Function],
+                            "warnTooManyClasses": [Function],
+                            "withComponent": [Function],
+                          }
+                        }
+                        forwardedRef={null}
+                        src="logo.png"
+                        title="Seven logo"
+                      >
+                        <img
+                          alt="Seven logo"
+                          className="sc-ifAKCX VNtXC"
+                          role="presentation"
+                          src="logo.png"
+                          title="Seven logo"
+                        />
+                      </StyledComponent>
+                    </styled.img>
+                    <styled.h2>
+                      <StyledComponent
+                        forwardedComponent={
+                          Object {
+                            "$$typeof": Symbol(react.forward_ref),
+                            "attrs": Array [],
+                            "componentStyle": ComponentStyle {
+                              "componentId": "sc-EHOje",
+                              "isStatic": true,
+                              "lastClassName": "gNASJJ",
+                              "rules": Array [
+                                "
+  color: ",
+                                "rgb(255, 255, 255)",
+                                ";
+  overflow: hidden;
+  padding-left: 3.5%;
+  white-space: nowrap;
+
+  @media (max-width: 479.5px) {
+    font-size: 1.3rem;
+  }
+
+  @media (min-width: 480px) and (max-width: 767.5px) {
+    font-size: 1.6rem;
+  }
+
+  @media (min-width: 768px) {
+    font-size: 2.2rem;
+  }
+",
+                              ],
+                            },
+                            "displayName": "styled.h2",
+                            "foldedComponentIds": Array [],
+                            "render": [Function],
+                            "styledComponentId": "sc-EHOje",
+                            "target": "h2",
+                            "toString": [Function],
+                            "warnTooManyClasses": [Function],
+                            "withComponent": [Function],
+                          }
+                        }
+                        forwardedRef={null}
+                      >
+                        <h2
+                          className="sc-EHOje gNASJJ"
+                        >
+                          Home and Away
+                        </h2>
+                      </StyledComponent>
+                    </styled.h2>
+                  </div>
+                </StyledComponent>
+              </styled.div>
+            </div>
+          </StyledComponent>
+        </styled.div>
+      </div>
+    </StyledComponent>
+  </styled.div>
+</Card>
+`;
