@@ -11,7 +11,7 @@ const Wrapper = styled.div`
   width: ${props => props.width};
 `;
 
-const Container = styled.div`
+const Container = styled.div` 
   overflow: hidden;
   position: relative;
 `;

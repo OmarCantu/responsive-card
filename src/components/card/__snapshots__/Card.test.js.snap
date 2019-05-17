@@ -68,9 +68,9 @@ exports[`Component matches Snapshot 1`] = `
                 "componentStyle": ComponentStyle {
                   "componentId": "sc-bwzfXH",
                   "isStatic": true,
-                  "lastClassName": "geMaRF",
+                  "lastClassName": "bNXpwW",
                   "rules": Array [
-                    "
+                    " 
   overflow: hidden;
   position: relative;
 ",
@@ -89,7 +89,7 @@ exports[`Component matches Snapshot 1`] = `
             forwardedRef={null}
           >
             <div
-              className="sc-bwzfXH geMaRF"
+              className="sc-bwzfXH bNXpwW"
             >
               <styled.img
                 alt="Home and Away"
@@ -109,7 +109,7 @@ exports[`Component matches Snapshot 1`] = `
                       "componentStyle": ComponentStyle {
                         "componentId": "sc-htpNat",
                         "isStatic": true,
-                        "lastClassName": "gUYLkx",
+                        "lastClassName": "eVEMwR",
                         "rules": Array [
                           "
   display: block;
@@ -117,7 +117,7 @@ exports[`Component matches Snapshot 1`] = `
   transition: transform .5s ease;
 
   :hover {
-    transform: scale(1.5);
+    transform: scale(1.1);
   }
 ",
                         ],
@@ -138,7 +138,7 @@ exports[`Component matches Snapshot 1`] = `
                 >
                   <img
                     alt="Home and Away"
-                    className="sc-htpNat gUYLkx"
+                    className="sc-htpNat eVEMwR"
                     role="presentation"
                     src="tile.jpg"
                     title="Home and Away"

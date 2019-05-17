@@ -3,7 +3,9 @@ import { shallow } from 'enzyme';
 
 import App from './App';
 
+const wrapper = shallow(<App />);
+
 test('renders without crashing', () => {
-  shallow(<App />);
+  expect(wrapper).toHaveLength(1);
 });
 

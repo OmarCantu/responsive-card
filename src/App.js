@@ -4,8 +4,6 @@ import { createGlobalStyle } from 'styled-components';
 import Card from './components/card/Card';
 import { CARD_DATA } from './mockData';
 
-import './App.css';
-
 const GlobalStyle = createGlobalStyle`
   html * {
     box-sizing: border-box;
